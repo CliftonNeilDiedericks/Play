@@ -1,0 +1,11 @@
+c:\users\neilo\source\repos\PlayApp\PlayApp\bin\Debug\netcoreapp2.0\PlayApp.deps.json
+c:\users\neilo\source\repos\PlayApp\PlayApp\bin\Debug\netcoreapp2.0\PlayApp.runtimeconfig.json
+c:\users\neilo\source\repos\PlayApp\PlayApp\bin\Debug\netcoreapp2.0\PlayApp.runtimeconfig.dev.json
+c:\users\neilo\source\repos\PlayApp\PlayApp\bin\Debug\netcoreapp2.0\PlayApp.dll
+c:\users\neilo\source\repos\PlayApp\PlayApp\bin\Debug\netcoreapp2.0\PlayApp.pdb
+c:\users\neilo\source\repos\PlayApp\PlayApp\obj\Debug\netcoreapp2.0\PlayApp.csprojAssemblyReference.cache
+c:\users\neilo\source\repos\PlayApp\PlayApp\obj\Debug\netcoreapp2.0\PlayApp.csproj.CoreCompileInputs.cache
+c:\users\neilo\source\repos\PlayApp\PlayApp\obj\Debug\netcoreapp2.0\PlayApp.AssemblyInfoInputs.cache
+c:\users\neilo\source\repos\PlayApp\PlayApp\obj\Debug\netcoreapp2.0\PlayApp.AssemblyInfo.cs
+c:\users\neilo\source\repos\PlayApp\PlayApp\obj\Debug\netcoreapp2.0\PlayApp.dll
+c:\users\neilo\source\repos\PlayApp\PlayApp\obj\Debug\netcoreapp2.0\PlayApp.pdb
